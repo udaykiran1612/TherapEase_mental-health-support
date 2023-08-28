@@ -6,7 +6,9 @@ This project is all about Mental Health,it shows how important is to look after 
 and shows some easy ways to maintain and improve your mental health. 
 [Project Link](https://ashiqingit.github.io/breath/)
 
-This project is done for code jam name Timathon hosted by [Tech with Tim](https://discord.gg/XwAF4UGD).
+This project is done for code jam name Timathon hosted by [Tech with Tim](https://discord.gg/XwAF4UGD).  
+
+
 ppt for the project : https://www.canva.com/design/DAFs2uhsJUQ/YMf5S08_j0o0-c98pwVLzw/edit?utm_content=DAFs2uhsJUQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton (use link for ppt)
 
 
