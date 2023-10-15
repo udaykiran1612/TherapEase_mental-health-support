@@ -112,6 +112,7 @@ So i added two simple games to play.
 
 * Use Left and Right arrow (or) use A and D to move the Car.
 * If your using mobile use the two Arrow symbols below to move the car.
+* for sure it will be fun for you
 
 
 
