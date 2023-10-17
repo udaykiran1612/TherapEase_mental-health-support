@@ -8,7 +8,7 @@ and shows some easy ways to maintain and improve your mental health.
 ppt for the project : https://www.canva.com/design/DAFs2uhsJUQ/YMf5S08_j0o0-c98pwVLzw/edit?utm_content=DAFs2uhsJUQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton (use link for ppt)
 
 
-# What we have here
+# What we have here :
 
 * Friendly Chatbot
 * Statistics of Mental Health disorders
