@@ -92,7 +92,7 @@ Here you find statistics of some mental health related disorders.
 A new paper suggests that video games might hold the key to providing affordable, stigma-free mental health
 treatment around the globe.  
 
-So i added two simple games to play.
+So i added two simple funny games to play :
 
 #### How to navigate
 
