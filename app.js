@@ -9,7 +9,7 @@ const potRight=document.querySelector('#pot_2');
 const girlsShadow=document.querySelector('.shadow');
 
 
-window.addEventListener('scroll',(
+window.addEventListener('scroll',()=>{
 
     let val=window.scrollY;
 
