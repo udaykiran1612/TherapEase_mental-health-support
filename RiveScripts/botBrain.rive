@@ -249,7 +249,6 @@
 + (sad|unhappy|mad|angry|pissed|depressed) 
 - Come on everthing will be alright soon.
 - I am sorry to hear that you are <star> , everthing will be alright.
-- I am very sorry to hear this from you .
 - I'm sure it's not pleasant to be <star>.
 
 
@@ -359,6 +358,55 @@
 
 
 + [*] (fuck|fucker|shit|damn|shut up|bitch) [*]
+- Does it make you feel strong to use that kind of language?
+- Are you angry?
+- Does this topic make you feel angry?
+- Is something making you feel angry?
+- Does using that kind of language make you feel better?
+
+
+
++ (fuck|fucker|shit|damn|shut up|bitch) 
+- Does it make you feel strong to use that kind of language?
+- Are you angry?
+- Does this topic make you feel angry?
+- Is something making you feel angry?
+- Does using that kind of language make you feel better?
+
+
+
+
+
++ (goodbye|good bye|bye|see ya)
+- Leaving so soon?
+- It was nice talking to you.
+- Thanks for the time.
+- Good bye
+
+
+////////////////////////////////////////////////////////////////////
+////                     WEBSITE TOUR                           ////
+////////////////////////////////////////////////////////////////////
+
+
+
++ website tour
+- If you want the whole website tour say , The whole tour , or if you want me to navigate you to a specific place try saying there name , Example , Take me to exercise section , or , Take me to Games section.
+
++ the whole tour 
+- Welcome, This website is all about Mental Health,it shows how important is to look after your mental health and shows some easy ways to maintain and improve your mental health. So on the main page you can find three menu number one Chat bot, it is me you must already know it, number two statistics by clicking that you can explore the statistics of some mental health disorders, number three contacts it will show you some contact details of my Creator , then scroll down a little you find four cards, by clicking the first card you can explore the page which shows some diet which help to maintain your mental health , Lets talk about the second card ,by clicking it you can explore the page which have some exercise which help to improve and maintain the mental health,And the third when will lead you hear , and the fourth one is little intresting where you can find how gaming helps in mental health and also you can find two games there ,you can play it,thats pretty much all of it thank you.
+
++ take me to (game|games) section
+- game section
+
++ take me to (exercise|exercises) section
+- exercise section
+
++ take me to (food|foods|diet) section
+- food section
+
++ take me to (statistics|statistic) section
+- statistics section
 - Does it make you feel strong to use that kind of language?
 - Are you angry?
 - Does this topic make you feel angry?
