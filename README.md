@@ -140,7 +140,7 @@ important for mental health.
 
 # Exercise for Mental Health
 
-One study found that increasing your activity levels from doing nothing, to exercising at least three times a week, reduces the risk of depression by up to 30 per cent.
+One study found that increasing your activity levels from doing nothing, to exercising at least three times a week, reduces the risk of depression by up to 30 percent.
 
 #### How to navigate
 
