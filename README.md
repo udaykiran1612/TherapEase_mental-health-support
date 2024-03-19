@@ -42,7 +42,7 @@ Talking openly about what your going through would really help you to reduce the
 It is not trained for all conversation but you can talk some normal conversation.
 
 
-#### How to use
+## How to use
 
 * Click "Start Conversation" button. (Bot will greet you).
 * Click "Listen me" button and start speaking once you stop speaking bot will reply.
